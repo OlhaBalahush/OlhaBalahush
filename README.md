@@ -22,8 +22,9 @@ I'm a student with a burning passion for software development and web design.
 ### Tech Experience
 
 - **Languages**: Golang, JavaScript (Node.js), C#, Java
-- **Databases**: PostgreSQL, MySQL
+- **Databases**: SQLite, PostgreSQL
 - **Frontend**: HTML, CSS, JS, React
+- **Design Tools**: Figma, Adobe Illustrator, Adobe Photoshop
 - **Version Control**: Git
 - **Project management**: Jira
 <!--- **Frameworks**: Django, Express.js, Spring Boot -->
