@@ -30,7 +30,7 @@ I'm a student with a burning passion for software development and web design.
 <!--- **Frameworks**: Django, Express.js, Spring Boot -->
 ### Education
 
-- Full-stack development student at [kood/Johvi](https://kood.tech/)
+- Full-stack development student at [kood/Johvi](https://kood.tech/) ([You can check my school progress here :D](https://olhabalahush.github.io/my-school-progress/))
 - Software engineering student at the [National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'](https://kpi.ua/en/)
 
 ### Current Focus
