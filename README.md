@@ -37,4 +37,4 @@ I'm a student with a burning passion for software development and web design.
 
 As an ambitious student pursuing practical experience, my primary focus is on exploring opportunities in the software development industry. I am eager to contribute to real-world projects and collaborate with experienced professionals.
 
-Currently, I am actively engaged in developing a social network application using JavaScript and Go as part of my academic endeavors. Our team manages the project using Jira, while also leveraging Figma to create an user-friendly design prototype, incorporating UI/UX best practices.
+Currently, I am actively involved in the development of a JavaScript framework. This framework, referred to as 'mini-framework,' is structured as a standalone project with various components like RoutingManager and StateManager.
