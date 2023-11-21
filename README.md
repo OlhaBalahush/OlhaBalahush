@@ -35,6 +35,4 @@ I'm a student with a burning passion for software development and web design.
 
 ### Current Focus
 
-As an ambitious student pursuing practical experience, my primary focus is on exploring opportunities in the software development industry. I am eager to contribute to real-world projects and collaborate with experienced professionals.
-
-Currently, I am actively involved in the development of a JavaScript framework. This framework, referred to as 'mini-framework,' is structured as a standalone project with various components like RoutingManager and StateManager.
+So far I finished JS branch in kood/Johvi school and I'm waiting to start the UI/UX branch and mobile application. Also, at this time, I am taking a [UX Designer course from Google](https://www.coursera.org/programs/cc23-ee-swe-i0ebb/professional-certificates/google-ux-design?authProvider=gwg-ent-inco) and am engaged in university projects.
