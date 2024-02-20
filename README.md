@@ -21,7 +21,7 @@ I'm a student with a burning passion for software development and web design.
 
 ### Tech Experience
 
-- **Languages**: Golang, JavaScript (Node.js), TypeScript, C#, Java
+- **Languages**: Golang, JavaScript (Node.js), TypeScript, C#, Java, Dart (Flutter)
 - **Databases**: SQLite, PostgreSQL
 - **Frontend**: HTML, CSS, JS, React
 - **Design Tools**: Figma, Adobe Illustrator, Adobe Photoshop
@@ -32,7 +32,8 @@ I'm a student with a burning passion for software development and web design.
 
 - Full-stack development student at [kood/Johvi](https://kood.tech/) ([You can check my school progress here :D](https://olhabalahush.github.io/my-school-progress/))
 - Software engineering student at the [National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'](https://kpi.ua/en/)
+- [UX Designer course from Google](https://www.coursera.org/programs/cc23-ee-swe-i0ebb/professional-certificates/google-ux-design?authProvider=gwg-ent-inco)
 
 ### Current Focus
 
-So far I finished JS branch in kood/Johvi school and I'm waiting to start the UI/UX branch and mobile application. Also, at this time, I am taking a [UX Designer course from Google](https://www.coursera.org/programs/cc23-ee-swe-i0ebb/professional-certificates/google-ux-design?authProvider=gwg-ent-inco) and am engaged in university projects.
+Currently, I am engaged in my diploma project while actively pursuing studies in both mobile development and UI/UX disciplines at the school.
