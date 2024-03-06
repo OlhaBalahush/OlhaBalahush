@@ -19,6 +19,8 @@ Hi there 👋
 
 I'm a student with a burning passion for software development and web design.
 
+### Check my portfolio [here](https://olhabalahush.github.io/portfolio/).
+
 ### Tech Experience
 
 - **Languages**: Golang, JavaScript (Node.js), TypeScript, C#, Java, Dart (Flutter)
