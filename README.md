@@ -25,7 +25,7 @@ I'm a student with a burning passion for software development and web design.
 
 - **Languages**: Golang, JavaScript (Node.js), TypeScript, C#, Java, Dart (Flutter)
 - **Databases**: SQLite, PostgreSQL
-- **Frontend**: HTML, CSS, JS, React
+- **Frontend**: HTML, CSS, JS, React, Svelte, TailwindCss
 - **Design Tools**: Figma, Adobe Illustrator, Adobe Photoshop
 - **Version Control**: Git
 - **Project management**: Jira
@@ -36,6 +36,6 @@ I'm a student with a burning passion for software development and web design.
 - Software engineering student at the [National Technical University of Ukraine 'Igor Sikorsky Kyiv Polytechnic Institute'](https://kpi.ua/en/)
 - [UX Designer course from Google](https://www.coursera.org/programs/cc23-ee-swe-i0ebb/professional-certificates/google-ux-design?authProvider=gwg-ent-inco)
 
-### Current Focus
+<!--- ### Current Focus
 
-Currently, I am engaged in my diploma project while actively pursuing studies in both mobile development and UI/UX disciplines at the school.
+Currently, I am engaged in my diploma project while actively pursuing studies in both mobile development and UI/UX disciplines at the school. -->
