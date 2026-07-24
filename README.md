@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi there 👋
 
-I'm a student with a burning passion for software development and web design.
+I'm a Product designer and engineer with over 2 years of experience in a startup environment.
 
 ### Tech Experience
 
